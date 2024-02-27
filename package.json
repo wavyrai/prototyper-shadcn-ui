@@ -1,11 +1,11 @@
 {
-  "name": "shadcdn",
-  "description": "shadcn/ui components bundled as an ESM module and served over CDN.",
-  "version": "0.0.4",
+  "name": "prototyper-shadcn-ui",
+  "description": "shadcn/ui components on CDN.",
+  "version": "0.0.1",
   "type": "module",
-  "main": "dist/shadcdn.js",
+  "main": "dist/prototyper-shadcn.js",
   "files": [
-    "dist/shadcdn.js",
+    "dist/prototyper-shadcn.js",
     "package.json"
   ],
   "scripts": {
